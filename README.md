@@ -1,10 +1,14 @@
 Chạy FE
+
     npm install
 
 
 Chạy BE
+
     tạo file .env trong src
+    
     cd src
+    
     node server.js
 
 
