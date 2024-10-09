@@ -1,6 +1,7 @@
 Chạy FE
 
     npm install
+    npm start
 
 Chạy BE
 
