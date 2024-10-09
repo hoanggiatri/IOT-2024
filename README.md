@@ -5,6 +5,7 @@ Chạy FE
 
 Chạy BE
 
+    npm install
     tạo file .env trong src
     cd src
     node server.js
