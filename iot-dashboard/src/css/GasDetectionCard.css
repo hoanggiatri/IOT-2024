@@ -1,0 +1,18 @@
+/* src/css/GasDetectionCard.css */
+.gas-detection-card {
+  padding: 20px;
+  text-align: center;
+  background-color: #f9f9f9; /* Màu nền tương tự */
+  border-radius: 10px; /* Bo góc tương tự */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Đổ bóng tương tự */
+}
+
+.gas-detection-card h5 {
+  font-size: 1.5rem; /* Kích thước chữ cho tiêu đề */
+  color: #333; /* Màu chữ cho tiêu đề */
+}
+
+.gas-detection-card h2 {
+  font-size: 3rem; /* Kích thước chữ cho mức khí gas */
+  color: #ff5722; /* Màu chữ cho mức khí gas */
+}

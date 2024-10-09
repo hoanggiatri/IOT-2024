@@ -1,0 +1,18 @@
+/* src/css/HumidityCard.css */
+.humidity-card {
+  padding: 20px;
+  text-align: center;
+  background-color: #f9f9f9; /* Màu nền nhẹ */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.humidity-card h5 {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.humidity-card h2 {
+  font-size: 3rem;
+  color: #007bff; /* Màu xanh dương */
+}

@@ -1,0 +1,23 @@
+/* src/css/Navbar.css */
+.MuiDrawer-paper {
+    background-color: #1e1e2f; /* Màu nền của Navbar */
+  }
+  
+  .MuiListItem-root {
+    transition: background-color 0.3s ease; /* Hiệu ứng chuyển động khi hover */
+  }
+  
+  .MuiListItem-root:hover {
+    background-color: #282c34; /* Màu nền khi hover */
+  }
+  
+  .MuiListItemText-root {
+    color: #ffffff; /* Màu chữ của item */
+    font-weight: 500; /* Độ đậm của chữ */
+  }
+  
+  .MuiTypography-h5 {
+    font-weight: bold; /* Độ đậm của tiêu đề */
+    color: #ffffff; /* Màu chữ của tiêu đề */
+  }
+  

@@ -1,0 +1,26 @@
+/* src/css/SwitchControl.css */
+.switch-control {
+    text-align: center;
+    padding: 20px;
+    background-color: #f9f9f9; /* Màu nền nhẹ */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .switch-control h6 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .switch-container {
+    display: flex; /* Sử dụng flexbox */
+    align-items: center; /* Căn giữa theo chiều dọc */
+    justify-content: flex-end; /* Căn phải cho nút và trạng thái */
+  }
+  
+  .switch-state {
+    font-size: 1rem;
+    color: #555;
+    margin-left: 10px; /* Khoảng cách giữa nút và trạng thái */
+  }
+  

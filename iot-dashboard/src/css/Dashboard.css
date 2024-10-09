@@ -1,0 +1,14 @@
+/* src/css/Dashboard.css */
+
+.dashboard-container {
+    padding: 20px;
+    background-color: #f5f5f5; /* Màu nền cho dashboard */
+  }
+  
+  .dashboard-title {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333; /* Màu chữ cho tiêu đề */
+  }
+  
