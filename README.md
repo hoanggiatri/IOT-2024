@@ -1,3 +1,12 @@
+Chạy FE
+    npm install
+Chạy BE
+    tạo file .env trong src
+    cd src
+    node server.js
+
+
+
 Tạo table và fake data 
 
 CREATE TABLE SensorData (
